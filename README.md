@@ -2,4 +2,5 @@
 
 
 
-![Screenshot (149)](https://github.com/user-attachments/assets/ecb0beac-ff1b-49f0-8f94-801e1a5e57e9)
+
+![connect4](https://github.com/user-attachments/assets/c531a1b8-b2b4-4560-a336-568589d8796d)
